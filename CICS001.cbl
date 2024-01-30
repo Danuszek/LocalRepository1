@@ -15,7 +15,7 @@
       *
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-            COPY CPY005.
+            COPY CPY009.
       *
         PROCEDURE DIVISION USING DFHCOMMAREA.
             COPY CPY000.

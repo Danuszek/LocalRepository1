@@ -18,6 +18,6 @@
             COPY CPY009.
       *
         PROCEDURE DIVISION USING DFHCOMMAREA.
-            COPY CPY000.
+            COPY ISMAIN.
             EXEC CICS RETURN END-EXEC.
 

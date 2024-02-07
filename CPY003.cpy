@@ -1,1 +1,2 @@
-           EXEC CICS ABEND END-EXEC.
+       COPY CPY005.
+       COPY CPY006.

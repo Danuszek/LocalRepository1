@@ -1,4 +1,2 @@
-           COPY CPY001.
-           COPY CPY002.
-           COPY CPY003.
-           COPY CPY004.
+           COPY ISMAIN1.
+           COPY ISMAIN2.
